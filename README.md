@@ -1,0 +1,2 @@
+# mtransmission
+为你多个transmission主机添加选择框以方便管理
